@@ -1,7 +1,7 @@
 {
   "name": "dashr-widget-compliments",
   "productName": "compliments",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Compliments you randomly.",
   "main": "build/components/CoreWidget.js",
   "scripts": {
